@@ -89,3 +89,9 @@ web/Cube.glb
 # unignore
 !Makefile
 !tests/Makefile
+
+# exclude project files
+**.sln
+**.vcxproj
+**.vcxproj.user
+**.vcxproj.filters
